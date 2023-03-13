@@ -1,2 +1,2 @@
 # Demo
-This repo is to learn git's in n out
+This repo is to learn git's in n out.
